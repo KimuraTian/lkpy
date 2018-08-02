@@ -225,3 +225,4 @@ ml-100k
 *.c
 
 build-env/
+.vagrant
